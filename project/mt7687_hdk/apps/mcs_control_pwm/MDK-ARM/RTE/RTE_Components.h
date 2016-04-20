@@ -1,5 +1,6 @@
 /* Copyright Statement:
- * (C) 2005-2016 MediaTek Inc. All rights reserved.
+ *
+ * (C) 2005-2016  MediaTek Inc. All rights reserved.
  *
  * This software/firmware and related documentation ("MediaTek Software") are
  * protected under relevant copyright laws. The information contained herein
@@ -7,15 +8,14 @@
  * Without the prior written permission of MediaTek and/or its licensors,
  * any reproduction, modification, use or disclosure of MediaTek Software,
  * and information contained herein, in whole or in part, shall be strictly prohibited.
- * You may only use, reproduce, modify, or distribute MediaTek Software
- * if you have agreed to and been granted explicit permission within
- * the "License Agreement" that is available on MediaTek's website ("Website") before
- * downloading the relevant MediaTek Software from the Website ("Permitted User").
- * If you are not a Permitted User, please cease any access or use of MediaTek Software immediately.
- *
+ * You may only use, reproduce, modify, or distribute (as applicable) MediaTek Software
+ * if you have agreed to and been bound by the applicable license agreement with
+ * MediaTek ("License Agreement") and been granted explicit permission to do so within
+ * the License Agreement ("Permitted User").  If you are not a Permitted User,
+ * please cease any access or use of MediaTek Software immediately.
  * BY OPENING THIS FILE, RECEIVER HEREBY UNEQUIVOCALLY ACKNOWLEDGES AND AGREES
- * THAT MEDIATEK SOFTWARE RECEIVED FROM MEDIATEK AND/OR ITS REPRESENTATIVES 
- * ARE PROVIDED TO RECEIVER ON AN "AS-IS" BASIS ONLY. MEDIATEK EXPRESSLY DISCLAIMS ANY AND ALL 
+ * THAT MEDIATEK SOFTWARE RECEIVED FROM MEDIATEK AND/OR ITS REPRESENTATIVES
+ * ARE PROVIDED TO RECEIVER ON AN "AS-IS" BASIS ONLY. MEDIATEK EXPRESSLY DISCLAIMS ANY AND ALL
  * WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF
  * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT.
  * NEITHER DOES MEDIATEK PROVIDE ANY WARRANTY WHATSOEVER WITH RESPECT TO THE
